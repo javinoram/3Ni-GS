@@ -16,4 +16,4 @@ Los datos calculados se almacenan en una carpeta llamada datos
 La parte mas importante es el base.py en donde se definen todas las funciones para construir y calcular elementos imporantes
 
 # Editar archivos
-La idea de estos archivos es que sirvan como template para estudiar otras estructuras, como es esperable, una de las primeras cosas que se tienen que camviar, son las funciones y elementos usandos para la construccion del hamiltoniano, lo siguiente es editar el flujo para que reciba los parametros de la nueva estructura y itere sobre los nuevos rangos y cantidades.
+La idea de estos archivos es que sirvan como template para estudiar otras estructuras, como es esperable, una de las primeras cosas que se tienen que cambiar, son las funciones y elementos usandos para la construccion del hamiltoniano, lo siguiente es editar el flujo para que reciba los parametros de la nueva estructura y itere sobre los nuevos rangos y cantidades.
